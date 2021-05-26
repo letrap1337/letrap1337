@@ -1,6 +1,6 @@
 # Hi there, I'm letrap 👋
 
-Hi and welcome! My name is leTrap/Trapez, I'm a 14 Y/O developer from Georgia, I started coding 2 months ago, you can learn about my skillss below! 🐍
+Hi and welcome! My name is leTrap/Trapez, I'm a 14 Y/O developer from Georgia, I started coding 2 months ago, you can learn about my skills below! 🐍
 
 <hr></hr>
 
