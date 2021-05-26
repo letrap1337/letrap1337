@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm letrap 👋
 
-<!--
-**letrap1337/letrap1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi and welcome! My name is leTrap/Trapez, I'm a 14 Y/O developer from Georgia, I started coding 2 months ago, you can learn about my skillss below! 🐍
 
-Here are some ideas to get you started:
+<hr></hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Skills:
+
+ - CSS 🖌️
+ - HTML 💻
+ - Python 🐍
+
+
+<hr></hr>
+
+## Goals:
+
+### My current goal is learning software and game development (C#/Python) 🕹️🖥️
+
+<hr></hr>
+
+### My Project(s)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letrap1337&repo=tkinter-calculator)](https://github.com/letrap1337/tkinter-calculator)
+
+<hr></hr>
+
+## Git Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letrap1337&show_icons=true&theme=vue)
+
