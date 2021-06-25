@@ -3,13 +3,14 @@
 
 # Hi there, I'm letrap 👋
 
-Hi and welcome! My name is leTrap/Trapez, I'm a 14 year old developer from Georgia, I started coding 2 months ago, you can learn about my skills below! 🐍
+Hi and welcome! My name is leTrap/Trapez, I'm a 14 year old developer from Georgia, I started coding 2 months ago, you can learn about my skills below.
 
 ## 🌊 Languages and Skills:
 
  - HTML 💻
  - CSS 🖌️
  - Python (Tkinter, Pygame, Discord.Py)🐍
+ - JavaScript (still learning) ⭐️
 
 ## 🌎 Contact:
 - E-Mail: letrap27@hotmail.com
@@ -18,7 +19,7 @@ Hi and welcome! My name is leTrap/Trapez, I'm a 14 year old developer from Georg
 
 ## ☕️ Goals:
 
-### My current goal is learning software and game development (C#/Python) 🕹️🖥️
+### My current goal is learning software and game development (C#/JavaScript) 🕹️🖥️
 
 
 
