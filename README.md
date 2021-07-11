@@ -1,6 +1,5 @@
 
-# 🏴‍☠️✨⚡🐉
-
+🧃🌆
 # Hi there, I'm letrap 👋
 
 Hi and welcome! My name is letrap/Trapez, I'm a developer from Georgia, I started coding few months ago, you can learn about my skills below.
